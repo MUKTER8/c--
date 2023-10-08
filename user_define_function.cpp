@@ -20,7 +20,7 @@ void Multiply(int a,int b){
     cout<<"Multiplecation : "<<multy<<endl;
 }
 void Division(int a,int b){
-    float div=a/b;
+    float div=(float)a/b;
     cout<<"Division : "<<div<<endl;
 }
 void Remainder(int a,int b){
