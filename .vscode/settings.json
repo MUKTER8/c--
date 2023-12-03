@@ -60,5 +60,8 @@
   "editor.defaultColorDecorators": true,
   "editor.mouseWheelZoom": true,
   "workbench.colorCustomizations": {},
-  "workbench.preferredHighContrastColorTheme": "Default High Contrast"
+  "workbench.preferredHighContrastColorTheme": "Default High Contrast",
+  "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
+    "clang-diagnostic-error"
+  ]
 }
