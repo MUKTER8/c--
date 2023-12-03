@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../OOP in C++"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {},
+		"workbench.preferredHighContrastColorTheme": "Default High Contrast"
+	}
+}
